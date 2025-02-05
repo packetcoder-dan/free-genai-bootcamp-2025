@@ -50,4 +50,4 @@ Here is an example of user input and assistant output, pay attention to the scor
 </example>
 
 ## Student Input
-Bears are at the door, did you leave the garbage out?
+Did you see the raven this morning? They were looking at our garden
