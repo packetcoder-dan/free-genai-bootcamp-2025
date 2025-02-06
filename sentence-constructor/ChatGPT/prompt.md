@@ -29,6 +29,8 @@ The formatted output will generally contain three parts:
 ### Sentence Structure
 
 - Do not provide particles in the sentence structure
+- Do not provide tenses or conjugations in the sentence structure
+- Remember to consider beginner level sentence structure
 
 ### Clues and Considerations
 
