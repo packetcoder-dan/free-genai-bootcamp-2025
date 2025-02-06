@@ -12,6 +12,7 @@ Beginner, CEFR C2
 - Provide a table of vocabulary, 
 - Provide words in their dictionary form, student needs to figure out conjugations and tenses
 - Provide a possible sentence structure
+- When the user makes an attempt, interpret their reading so they can see what that actually said
 
 ## Formatting Instructions
 
@@ -25,6 +26,8 @@ The formatted output will generally contain three parts:
 - The table should only include nouns, verbs, adverbs, and adjectives
 - The table should only have European Portuguese and English
 - Do not provide particles in the vocabulary, student needs to figure this out the correct particles to use
+- Ensure there are no repeats
+- If there is more than one version of a word show the most common example
 
 ### Sentence Structure
 
